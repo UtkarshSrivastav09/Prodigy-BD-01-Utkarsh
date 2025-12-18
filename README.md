@@ -52,7 +52,7 @@ CORS_ORIGIN=http://localhost:3000
 
 <h1>▶️ How to Run the Project</h1>
 1️⃣ Clone Repository<br>
-git clone https://github.com/your-username/Prodigy_BD_01.git<br>
+https://github.com/UtkarshSrivastav09/Prodigy-BD-01-Utkarsh.git<br>
 cd Prodigy_BD_01
 
 2️⃣ Run Backend Server
@@ -112,5 +112,5 @@ This project was developed as part of Prodigy Internship Task – Prodigy_BD_01 
 
 
 <h3>Created By Utkarsh Srivastav</h3>
-Backend Developer Intern at Prodigy InfoTech
+Backend Developer Intern at Prodigy InfoTech<br>
 Gmail: utkarshsrivastav2206@gmail.com
