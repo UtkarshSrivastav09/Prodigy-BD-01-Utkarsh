@@ -51,8 +51,8 @@ MONGO_URI=mongodb://127.0.0.1:27017/employee_db
 CORS_ORIGIN=http://localhost:3000
 
 <h1>▶️ How to Run the Project</h1>
-1️⃣ Clone Repository
-git clone https://github.com/your-username/Prodigy_BD_01.git
+1️⃣ Clone Repository<br>
+git clone https://github.com/your-username/Prodigy_BD_01.git<br>
 cd Prodigy_BD_01
 
 2️⃣ Run Backend Server
