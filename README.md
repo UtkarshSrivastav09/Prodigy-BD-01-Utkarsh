@@ -92,19 +92,19 @@ DELETE	        /api/user/:id	    Delete user by ID
 
 <h1>🚀 Key Highlights</h1>
 
---> Clean REST API architecture
---> Environment-based configuration
---> Proper error handling
---> MongoDB connection using Mongoose
---> Scalable project structure
+--> Clean REST API architecture<br>
+--> Environment-based configuration<br>
+--> Proper error handling<br>
+--> MongoDB connection using Mongoose<br>
+--> Scalable project structure<br>
 
 <h1>📈 Future Enhancements</h1>
 
---> JWT Authentication
---> Role-based authorization
---> Input validation
---> Pagination & filtering
---> Deployment on cloud platforms
+--> JWT Authentication<br>
+--> Role-based authorization<br>
+--> Input validation<br>
+--> Pagination & filtering<br>
+--> Deployment on cloud platforms<br>
 
 <h1>📌 Project Purpose</h1>
 
