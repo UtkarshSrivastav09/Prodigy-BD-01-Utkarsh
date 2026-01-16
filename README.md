@@ -1,5 +1,3 @@
-<h1># PRODIGY_BD_01</h1>
-
 <h1>🚀 REST API with CRUD</h1>
 
 A backend-focused REST API built using Node.js, Express.js, and MongoDB that performs full CRUD (Create, Read, Update, Delete) operations.
